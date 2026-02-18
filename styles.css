@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.caja {
+    width: 250px;
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.caja:hover {
+    background-color: lightblue;
+}
